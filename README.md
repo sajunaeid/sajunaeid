@@ -5,7 +5,33 @@
 
 
 # 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
+## Languages I Know
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+
+  <div style="background-color: #F0DB4F; padding: 10px 20px; border-radius: 50px; color: black; font-weight: bold;">
+    JavaScript
+  </div>
+
+  <div style="background-color: #E34F26; padding: 10px 20px; border-radius: 50px; color: white; font-weight: bold;">
+    HTML5
+  </div>
+
+  <div style="background-color: #1572B6; padding: 10px 20px; border-radius: 50px; color: white; font-weight: bold;">
+    CSS3
+  </div>
+
+  <div style="background-color: #339933; padding: 10px 20px; border-radius: 50px; color: white; font-weight: bold;">
+    Node.js
+  </div>
+
+  <div style="background-color: #4479A1; padding: 10px 20px; border-radius: 50px; color: white; font-weight: bold;">
+    MySQL
+  </div>
+
+</div>
+
+
 
 
 
