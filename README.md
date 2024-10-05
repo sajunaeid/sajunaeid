@@ -7,32 +7,24 @@
 # 💻 Tech Stack:
 ## Languages I Know
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
 
-  <div style="background-color: #F0DB4F; padding: 10px 20px; border-radius: 50px; color: black; font-weight: bold;">
-    JavaScript
-  </div>
+## Languages and Tools
 
-  <div style="background-color: #E34F26; padding: 10px 20px; border-radius: 50px; color: white; font-weight: bold;">
-    HTML5
-  </div>
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <br>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+  <br>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <br>
+  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" alt="Adobe Illustrator"/>
+</p>
 
-  <div style="background-color: #1572B6; padding: 10px 20px; border-radius: 50px; color: white; font-weight: bold;">
-    CSS3
-  </div>
-
-  <div style="background-color: #339933; padding: 10px 20px; border-radius: 50px; color: white; font-weight: bold;">
-    Node.js
-  </div>
-
-  <div style="background-color: #4479A1; padding: 10px 20px; border-radius: 50px; color: white; font-weight: bold;">
-    MySQL
-  </div>
-
-</div>
-
-
-
+<!-- <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> -->
 
 
 
